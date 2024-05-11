@@ -26,8 +26,7 @@ $$
 &= \lim_{n\to\infty}{\frac{\frac{d}{dn}{\ln{\left( 1+\frac{1}{n} \right)}}}{\frac{d}{dn}{\frac{1}{n}}}} \text{ , by L'Hôpital's rule of $\frac{0}{0}$ case} \\
 &= \lim_{n\to\infty}{\frac{\frac{d}{d{1+\frac{1}{n}}}{\ln{\left( 1+\frac{1}{n} \right) \cdot \frac{d}{dn}{ \left( 1+\frac{1}{n} \right)}}}}{-\frac{1}{n^2}}} \\
 &= \lim_{n\to\infty}{\frac{\frac{d}{d{u}}{\ln{u \cdot -\frac{1}{n^2}}}}{-\frac{1}{n^2}}} \text{ , let $u = 1+\frac{1}{n}$} \\
-&= \lim_{n\to\infty}{\frac{d}{d{u}}{\ln{u }}}\\
-
+&= \lim_{n\to\infty}{\frac{d}{d{u}}{\ln{u }}} \\
 \end{align*}
 $$
 
