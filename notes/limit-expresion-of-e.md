@@ -3,7 +3,6 @@ type: proof
 keywords: e, Euler's number, limit expression of e
 tags:
   - e
-  - Euler's number
 ---
 
 # The limit expression of e

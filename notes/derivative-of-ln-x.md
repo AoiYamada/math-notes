@@ -3,8 +3,7 @@ type: proof
 keywords: e, Euler's number, natural log, derivative
 tags:
   - e
-  - Euler's number
-  - natural log
+  - ln
 ---
 
 # Derivative of ln(x)

@@ -3,7 +3,6 @@ type: definition
 keywords: e, Euler's number
 tags:
   - e
-  - Euler's number
 ---
 
 # The slop definition of e
